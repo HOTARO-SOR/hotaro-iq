@@ -65,7 +65,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "لا تغيـرها ابدا",
-      "value": "hotaro-sor",
+      "value": "hotaro-iq",
       "required": false
     }
   },
